@@ -1,9 +1,9 @@
-package com.brainiac;
+package com.brainiac.sorting;
 
 /**
  *  Selection sort is a sorting algorithm, specifically an in-place comparison sort.
  *  It has O(n2) time complexity, making it inefficient on large lists, and generally performs worse than the similar insertion sort.
- * 
+ *
  * Side notes:
  *  - Unstable sort algorithm since the order in position of duplicate elements is not maintained
  *  - Time complexity of O(n^2) which is quadratic
