@@ -6,7 +6,7 @@ public class ShellSortAlgorithm {
 
         for (int gap = intArray.length / 2; gap > 0; gap /= 2) {
             for (int i = gap; i < intArray.length; i++) {
-                int newElement = intArray[i]; 
+                int newElement = intArray[i];
 
                 int j = i;
 
